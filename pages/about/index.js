@@ -27,7 +27,7 @@ const About = () => {
             exit="hidden"
             className="max-w-[700px] mx-auto text-white/80"
           >
-            I specialize in full-stack development with a deep focus on the JavaScript ecosystem. From building interactive UIs to scalable backends, I deliver production-grade solutions. I'm also expanding my skillset into Python for data-driven applications.
+            I specialize in full-stack development with a deep focus on the JavaScript ecosystem. From building interactive UIs to scalable backends, I deliver production-grade solutions. I&apos;m also expanding my skillset into Python for data-driven applications.
           </motion.p>
         </motion.div>
 

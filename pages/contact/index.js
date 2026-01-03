@@ -69,7 +69,7 @@ const Contact = () => {
           >
             <h2 className="h2 mb-4">Get in <span className="text-accent">Touch</span></h2>
             <p className="max-w-[400px] mb-8 text-white/60">
-              I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+              I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
             </p>
 
             <div className="flex flex-col gap-4">
